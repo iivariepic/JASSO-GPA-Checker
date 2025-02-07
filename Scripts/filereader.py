@@ -1,5 +1,5 @@
 # Function to read the given file which returns a list of the grades
-import extract_grade
+from Scripts.extract_grade import extract_grade
 from Scripts.grade import Grade
 
 

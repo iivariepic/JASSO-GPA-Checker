@@ -5,7 +5,7 @@ def select_file(directory_str) -> str:
     files = os.listdir(directory_str)
     filenumber = 1
     for file in files:
-        print(f"{filenumber}. file")
+        print(f"{filenumber}. {file}")
         filenumber += 1
 
     while True:
@@ -13,6 +13,9 @@ def select_file(directory_str) -> str:
         try:
             int(user_input)
         except ValueError:
+            print("Invalid input")
             continue
 
-    return files[int(user_input) + 1]
+        break
+
+    return files[int(user_input) - 1]

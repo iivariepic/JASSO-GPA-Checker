@@ -1,6 +1,6 @@
 INSTRUCTIONS MANUAL 
 
-1. Install the files (cloning the repository is the easiest) 
+1. Install the files (from releases) 
 
 2. Get an ENGLISH transcript of records from peppi 
 

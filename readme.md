@@ -8,7 +8,7 @@ INSTRUCTIONS MANUAL
 
 4. Paste the contents into a text file and save it. 
 
-5. Insert the text file into the file “Place txt here”, you can delete sample.txt if you wish, multiple files are also supported 
+5. Insert the text file into the file “Place txt here”, you can delete sample_file.txt if you wish, multiple files are also supported 
 
 6. Run “run main.bat” 
 

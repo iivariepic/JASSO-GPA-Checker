@@ -21,48 +21,40 @@ DEF
 5 cr
 Finnish Language and
 Communication
-5 cr 4 14.1.2024 Noora
-Hämäläinen
+5 cr 4 14.1.2024 #####
 Working Life Skills for Engineers 2 10 cr
 Working Life Skills for Engineers 2
 ABC
 10 cr
-Product Development 7 cr 5 8.5.2024 Jetro Vesti
+Product Development 7 cr 5 8.5.2024 #####
 Introduction to Competence
 Tracks
-3 cr H 25.4.2024 Paula
-Steinby
+3 cr H 25.4.2024 #####
 Engineering Tools 1 25 cr
 Engineering Tools 1 ABC 15 cr
-Engineering Precalculus 5 cr 5 16.12.2023 Jetro Vesti
-Introduction to Electronics 5 cr 4 3.5.2024 Jussi Hurri
-Internet Networks and Security 5 cr 5 26.4.2024 Mika
-Koivunen
+Engineering Precalculus 5 cr 5 16.12.2023 #####
+Introduction to Electronics 5 cr 4 3.5.2024 #####
+Internet Networks and Security 5 cr 5 26.4.2024 #####
 Engineering Tools 1 DEF 10 cr
-Engineering Physics 5 cr 5 18.12.2023 Jaakko
-Lamminpää
-Measurements in Physics 5 cr 4 8.12.2023 Antti Haarto
+Engineering Physics 5 cr 5 18.12.2023 #####
+Measurements in Physics 5 cr 4 8.12.2023 #####
 Engineering Tools 2 5 cr
 Engineering Tools 2 DEF 5 cr
-Calculus 5 cr 5 23.4.2024 Jetro Vesti
+Calculus 5 cr 5 23.4.2024 #####
 Engineering Tools 3 13 cr
-Application Programming 5 cr 5 17.12.2024 Tuomo Helo
-Topics in Applied Mathematics 5 cr 5 3.12.2024 Jetro Vesti
+Application Programming 5 cr 5 17.12.2024 #####
+Topics in Applied Mathematics 5 cr 5 3.12.2024 #####
 Swedish Business Communication,
 B1
 3 cr
 Swedish for Working Life,
 Written Communication
 (replacing compulsory Swedish)
-2 cr 3 13.12.2024 Heli
-Söderlund-
-Laihinen
+2 cr 3 13.12.2024 #####
 Swedish for Working Life, Oral
 Communication (replacing
 compulsory Swedish)
-1 cr 3 9.12.2024 Heli
-Söderlund-
-Laihinen
+1 cr 3 9.12.2024 #####
 Turku University of Applied Sciences Transcript of Records
 12.01.2025
 page 1/3
@@ -73,19 +65,16 @@ PROJECT MANAGEMENT
 Introduction to Software
 Engineering
 14 cr
-Introduction to ICT Projects 9 cr 5 10.1.2025 Annukka
-Kinnari
-Databases 5 cr 5 17.12.2024 Kimmo
-Tarkkanen
+Introduction to ICT Projects 9 cr 5 10.1.2025 #####
+Databases 5 cr 5 17.12.2024 #####
 Practical Training 10 cr
-Basic Practice 10 cr H 2.8.2024 Kati Eklund
+Basic Practice 10 cr H 2.8.2024 #####
 COMPLEMENTARY COMPETENCE 3 cr
 OPTIONAL STUDIES 3 cr
-MATLAB Basics for ICT 3 cr H 6.5.2024 Jetro Vesti
+MATLAB Basics for ICT 3 cr H 6.5.2024 #####
 External studies 2 cr
-Orientation to Destination Japan 1 cr H 4.12.2024 Shiho Torii
-Basics of Git 1 cr H 12.11.2024 Annukka
-Kinnari
+Orientation to Destination Japan 1 cr H 4.12.2024 #####
+Basics of Git 1 cr H 12.11.2024 #####
 Turku University of Applied Sciences Transcript of Records
 12.01.2025
 page 2/3

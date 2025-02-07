@@ -8,6 +8,6 @@ def calculate_average(grades:list[Grade]) -> float:
 
     for grade in grades:
         credit_amount += grade.credit_amount
-        grade_amount_weighted = grade.JASSO_grade * grade.credit_amount
+        grade_amount_weighted += grade.JASSO_grade * grade.credit_amount
 
     return grade_amount_weighted/credit_amount

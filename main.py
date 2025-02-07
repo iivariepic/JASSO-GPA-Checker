@@ -14,7 +14,6 @@ def main():
 
     total_credits:int = 0
     for grade in grades:
-        print(grade.TUAS_grade)
         total_credits += grade.credit_amount
 
     print(f"Total amount of calculated credits: {total_credits}")

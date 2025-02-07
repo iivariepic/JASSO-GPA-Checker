@@ -1,6 +1,6 @@
-Student Iivari Markus Anttila 29.8.2023—31.7.2027
-Date of birth 9.11.2003 Studies continue
-Student number 2303361 Credits 240 cr
+Student ##################
+Date of birth ################
+Student number ###############
 Programme Degree Programme in Information and
 Communication Technology
 Completed 102 cr

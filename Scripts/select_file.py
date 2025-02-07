@@ -11,8 +11,8 @@ def select_file(directory_str) -> str:
     while True:
         user_input = input("Select a file number: ")
         try:
-            int(user_input)
-        except ValueError:
+            files[int(user_input) - 1]
+        except:
             print("Invalid input")
             continue
 

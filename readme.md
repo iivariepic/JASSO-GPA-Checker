@@ -10,7 +10,7 @@ INSTRUCTIONS MANUAL
 
 5. Insert the text file into the file “Place txt here”, you can delete sample_file.txt if you wish, multiple files are also supported 
 
-6. Run “run main.bat” 
+6. Run “run main.bat”  / or just run main.py if you don't trust me
 
 7. Type the number of the file you wish to search 
 
